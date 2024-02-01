@@ -8,14 +8,9 @@ each physical activity benefits them, as well the next steps to improve. It is a
 do to improve it.
 
 ## How to get started with the project
-1. Download the repo locally and extract
-2. Navigate through IDE to the local folder
-3. Get an API key
+This is the back-end spring application for the Menti app, to use this you must have an OpenAI API key which can be optained from OpenAI API (https://platform.openai.com/api-keys). The actual Menti App can be found and downloaded from Menti App- https://github.com/manavkr0710/MENTIMeditationSpace
 
 
-## Resources used
-- 
-  
 
 
 
